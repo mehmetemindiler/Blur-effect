@@ -1,1 +1,3 @@
 # Blur-effect
+
+![](ekran.gif)
